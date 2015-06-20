@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ch11_01_SQLite</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">About</string>
+    <string name="action_add">新增聯絡人</string>
+    <string name="action_search">搜尋</string>
+    <string name="action_delete">刪除</string>
+    <string name="action_edit">刪除</string>
+</resources>
