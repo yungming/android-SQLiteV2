@@ -78,8 +78,8 @@ public class AddActivity extends Activity {
         int width = bmp.getWidth();
         int height = bmp.getHeight();
         // 設置想要的大小
-        int newWidth = 50;
-        int newHeight = 50;
+        int newWidth = 150;
+        int newHeight = 150;
         // 計算缩放比例
         float scaleWidth = ((float) newWidth) / width;
         float scaleHeight = ((float) newHeight) / height;

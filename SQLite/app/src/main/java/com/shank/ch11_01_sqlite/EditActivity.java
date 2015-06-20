@@ -115,6 +115,7 @@ public class EditActivity extends Activity {
         //獲得圖片的寬高
         int width = bmp.getWidth();
         int height = bmp.getHeight();
+
         // 設置想要的大小
         int newWidth = 150;
         int newHeight = 150;
